@@ -1,42 +1,57 @@
-[
+{
+  "category1": [
     {
-        "title": "Item 1",
-        "description": "Description for item 1",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f532f5e47afbd5e71_Mask%20Group%201.jpg"
+      "image": "url1.jpg",
+      "title": "Image 1"
     },
     {
-        "title": "Item 2",
-        "description": "Description for item 2",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f9af6836eaea6b202_Mask%20Group%202.jpg"
-    },
-    {
-        "title": "Item 3",
-        "description": "Description for item 3",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f532f5e47afbd5e71_Mask%20Group%201.jpg"
-    },
-    {
-        "title": "Item 4",
-        "description": "Description for item 4",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f9af6836eaea6b202_Mask%20Group%202.jpg"
-    },
-        {
-        "title": "Item 1",
-        "description": "Description for item 1",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f532f5e47afbd5e71_Mask%20Group%201.jpg"
-    },
-    {
-        "title": "Item 2",
-        "description": "Description for item 2",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f9af6836eaea6b202_Mask%20Group%202.jpg"
-    },
-    {
-        "title": "Item 3",
-        "description": "Description for item 3",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f532f5e47afbd5e71_Mask%20Group%201.jpg"
-    },
-    {
-        "title": "Item 4",
-        "description": "Description for item 4",
-        "image" : "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f9af6836eaea6b202_Mask%20Group%202.jpg"
+      "image": "url2.jpg",
+      "title": "Image 2"
     }
-]
+    // Add more images for category1
+  ],
+  "category2": [
+    {
+      "image": "url3.jpg",
+      "title": "Image 3"
+    },
+    {
+      "image": "url4.jpg",
+      "title": "Image 4"
+    }
+    // Add more images for category2
+  ],
+  "category3": [
+    {
+      "image": "url5.jpg",
+      "title": "Image 5"
+    },
+    {
+      "image": "url6.jpg",
+      "title": "Image 6"
+    }
+    // Add more images for category3
+  ],
+  "category4": [
+    {
+      "image": "url7.jpg",
+      "title": "Image 7"
+    },
+    {
+      "image": "url8.jpg",
+      "title": "Image 8"
+    }
+    // Add more images for category4
+  ],
+  "category5": [
+    {
+      "image": "url9.jpg",
+      "title": "Image 9"
+    },
+    {
+      "image": "url10.jpg",
+      "title": "Image 10"
+    }
+    // Add more images for category5
+  ]
+}
