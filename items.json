@@ -1,21 +1,21 @@
 {
   "category1": [
     {
-      "image": "url1.jpg",
+      "image": "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f9af6836eaea6b202_Mask%20Group%202.jpg",
       "title": "Image 1"
     },
     {
-      "image": "url2.jpg",
+      "image": "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f9af6836eaea6b202_Mask%20Group%202.jpg",
       "title": "Image 2"
     }
   ],
   "category2": [
     {
-      "image": "url3.jpg",
+      "image": "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f532f5e47afbd5e71_Mask%20Group%201.jpg",
       "title": "Image 3"
     },
     {
-      "image": "url4.jpg",
+      "image": "https://uploads-ssl.webflow.com/6672967e684c647583b230b3/6698320f532f5e47afbd5e71_Mask%20Group%201.jpg",
       "title": "Image 4"
     }
   ],
